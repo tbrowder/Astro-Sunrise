@@ -10,7 +10,7 @@
     "test-depends"  : [ "Test" ],
     "build-depends" : [ ],
     "repo-type"     : "git",
-    "source-url"    : "git://github.com/perlpilot/p6-Astro-Sunrise.git",
+    "source-url"    : "git://github.com/raku-community-modules/Astro-Sunrise.git",
     "authors"       : [
         "Jonathan Scott Duff <duff@pobox.com>"
     ]
