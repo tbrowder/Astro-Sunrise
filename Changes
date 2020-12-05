@@ -1,0 +1,14 @@
+Revision history for Astro-Sunrise
+
+{{$NEXT}}
+    - Forked to the Raku community account by
+      @lizmat on 2020-11-26 to maintain the module originated by the late
+      Jonathon Scott Duff
+    - Converted to be maintained by App::Mi6
+    - README added via docs/doc.pod6
+    - Added a Location class to ease subroutine use
+    - Added a working example
+    - Added a test for Location
+
+0.0.1  2016-01-06
+    - Initial version by Jonathon Scott Duff
