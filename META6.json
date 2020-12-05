@@ -9,12 +9,12 @@
   "depends": [
   ],
   "description": "Find the time of sunrise/sunset on a particular day",
-  "license": "NOASSERTION",
+  "license": "Artistic License 2.0",
   "name": "Astro::Sunrise",
   "perl": "6.d",
   "provides": {
     "Astro::Location": "lib/Astro/Location.pm6",
-    "Astro::Sunrise": "lib/Astro/Sunrise.rakumod"
+    "Astro::Sunrise": "lib/Astro/Sunrise.pm6"
   },
   "repo-type": "git",
   "resources": [
