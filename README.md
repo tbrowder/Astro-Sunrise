@@ -62,7 +62,7 @@ Some changes were made by Tom Browder (aka @tbrowder, <tbrowder@cpan.org>) who i
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2020 Raku.org
+    &#x00A9; 2020 Raku.org
 
 This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
 
