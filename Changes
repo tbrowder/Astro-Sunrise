@@ -1,6 +1,8 @@
 Revision history for Astro-Sunrise
 
 {{$NEXT}}
+
+0.0.2  2020-12-05T16:35:12-06:00
     - Forked to the Raku community account by
       @lizmat on 2020-11-26 to maintain the module originated by the late
       Jonathon Scott Duff
