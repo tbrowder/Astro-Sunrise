@@ -19,7 +19,7 @@
   "repo-type": "git",
   "resources": [
   ],
-  "source-url": "git://github.com/raku-community-modules/Astro-Sunrise.git",
+  "source-url": "git://github.com/tbrowder/Astro-Sunrise.git",
   "tags": [
     "Astro",
     "Sunset"
