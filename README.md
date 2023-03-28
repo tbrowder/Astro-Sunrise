@@ -62,8 +62,8 @@ Some changes were made by Tom Browder (aka @tbrowder, <tbrowder@acm.org>) who is
 COPYRIGHT AND LICENSE
 =====================
 
-    E<0x00a9> 2020 Raku.org
-    E<0x00a9> 2023 Tom Browder
+    © 2020 Raku.org
+    © 2023 Tom Browder
 
 This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
 
