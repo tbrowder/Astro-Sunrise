@@ -1,6 +1,11 @@
 Revision history for Astro-Sunrise
 
 {{$NEXT}}
+    - Change repo source and primary author name
+    - Added separate OS tests
+    - Taken over by @tbrowder
+    - Rakuized file names
+    - Placed in Fez module repo
 
 0.0.2  2020-12-05T16:35:12-06:00
     - Forked to the Raku community account by

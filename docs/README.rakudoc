@@ -1,4 +1,3 @@
-
 =begin pod
 
 =head1 NAME
@@ -63,12 +62,13 @@ modules repository
 on November 26, 2020.
 
 Some changes were made by Tom Browder (aka @tbrowder,
-<tbrowder@cpan.org>) who is currently reponsible for any bugs or
+<tbrowder@acm.org>) who is currently reponsible for any bugs or
 modifications.
 
 =head1 COPYRIGHT AND LICENSE
 
  &#x00A9; 2020 Raku.org
+ &#x00A9; 2023 Tom Browder
 
 This library is free software; you may redistribute it or modify it
 under the Artistic License 2.0.

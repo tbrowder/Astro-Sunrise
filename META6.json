@@ -1,5 +1,5 @@
 {
-  "auth": "github:perlpilot",
+  "auth": "zef:tbrowder",
   "authors": [
     "Jonathan Scott Duff <duff@pobox.com>",
     "Tom Browder <tbrowder@cpan.org>"
@@ -13,16 +13,16 @@
   "name": "Astro::Sunrise",
   "perl": "6.d",
   "provides": {
-    "Astro::Location": "lib/Astro/Location.pm6",
-    "Astro::Sunrise": "lib/Astro/Sunrise.pm6"
+    "Astro::Location": "lib/Astro/Location.rakumod",
+    "Astro::Sunrise": "lib/Astro/Sunrise.rakumod"
   },
   "repo-type": "git",
   "resources": [
   ],
-  "source-url": "git://github.com/raku-community-modules/Astro-Sunrise.git",
+  "source-url": "git://github.com/tbrowder/Astro-Sunrise.git",
   "tags": [
     "Astro",
-    "Sunset"
+    "Sunrise Sunset"
   ],
   "test-depends": [
     "Test"

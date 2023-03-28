@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/tbrowder/Astro-Sunrise/workflows/test/badge.svg)](https://github.com/tbrowder/Astro-Sunrise/actions)
+[![Actions Status](https://github.com/tbrowder/Astro-Sunrise/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/Astro-Sunrise/actions) [![Actions Status](https://github.com/tbrowder/Astro-Sunrise/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/Astro-Sunrise/actions) [![Actions Status](https://github.com/tbrowder/Astro-Sunrise/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/Astro-Sunrise/actions)
 
 NAME
 ====
@@ -57,12 +57,13 @@ The original author was the late Jonathon Scott Duff (aka @perlpilot) who first 
 
 The module was forked from the original repository at <https://github.com/perlpilot/p6-Astro-Sunrise> to the Raku community modules repository <https://github.com/raku-community-modules/Astro-Sunrise> by @lizmat on November 26, 2020.
 
-Some changes were made by Tom Browder (aka @tbrowder, <tbrowder@cpan.org>) who is currently reponsible for any bugs or modifications.
+Some changes were made by Tom Browder (aka @tbrowder, <tbrowder@acm.org>) who is currently reponsible for any bugs or modifications.
 
 COPYRIGHT AND LICENSE
 =====================
 
     &#x00A9; 2020 Raku.org
+    &#x00A9; 2023 Tom Browder
 
 This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
 
