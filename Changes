@@ -1,6 +1,8 @@
 Revision history for Astro-Sunrise
 
 {{$NEXT}}
+
+0.0.3  2023-03-28T14:15:10-05:00
     - Change repo source and primary author name
     - Added separate OS tests
     - Taken over by @tbrowder
