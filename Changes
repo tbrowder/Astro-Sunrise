@@ -1,7 +1,8 @@
 Revision history for Astro-Sunrise
 
 {{$NEXT}}
-    - Fix tests to use zef
+    - Fix tests to use zef instead of prove6
+    - Update copyright year
 
 0.0.3  2023-03-28T14:15:10-05:00
     - Change repo source and primary author name
