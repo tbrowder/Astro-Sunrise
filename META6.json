@@ -19,7 +19,7 @@
   "repo-type": "git",
   "resources": [
   ],
-  "source-url": "git://github.com/tbrowder/Astro-Sunrise.git",
+  "source-url": "https://github.com/tbrowder/Astro-Sunrise.git",
   "tags": [
     "Astro",
     "Sunrise Sunset"
